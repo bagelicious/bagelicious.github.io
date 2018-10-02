@@ -19,7 +19,7 @@ body{
 #clockbox{
   display: flex;
   justify-content: flex-start;
-  margin: 55px 60px;
+  margin: 55px 50px;
 }
 
 h2{
