@@ -54,7 +54,3 @@ input[type=text]{
   font-size: 1.7em;
   background-color: inherit;
 }
-
-input:active{
-  border: none;
-}
