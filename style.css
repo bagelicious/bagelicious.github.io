@@ -31,26 +31,24 @@ h2{
 .inspiration{
   display: flex;
   justify-content: center;
-  margin-top: 15%;
 }
 
 h1{
   color: white;
-  font-size: 7em;
+  font-size: 15em;
 }
 
 /*searchbox*/
 .search{
   display: flex;
   justify-content: center;
+  margin: auto;
 }
 
 input[type=text]{
-  margin-top: 2px;
-  padding: 5px;
   border: none;
   border-bottom: solid white 2px;
   color: white;
-  font-size: 1.7em;
+  font-size: 2em;
   background-color: inherit;
 }
