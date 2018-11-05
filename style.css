@@ -51,4 +51,5 @@ input[type=text]{
   color: white;
   font-size: 2em;
   background-color: inherit;
+  width: 400px;
 }
